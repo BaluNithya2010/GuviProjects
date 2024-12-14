@@ -1,2 +1,2 @@
 # GuviProjects
-This repository used for storing Guvi projects related files
+This repository used for storing Guvi projects related files.
